@@ -10,7 +10,6 @@ I'm taking the "Bangkit" course on the Machine Learning Path [Coursera]
 ### Tech Stack
   <a href="https://www.python.org//"><img align="left" alt="Python" title="Python" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" /></a>
   <br>
-  <br>
 ### Github Statistic
 <p align="left">
 <a href="https://github.com/Ainmaxx">
