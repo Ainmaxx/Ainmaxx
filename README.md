@@ -7,7 +7,7 @@ I am **Undergraduate Student** in ITS
 I'm taking the "Bangkit" course on the Machine Learning Path [Coursera]
 (https://www.coursera.org)
 
-If you're interested in me, you can follow my[Linkedin](www.linkedin.com/in/muhammad-ainul-yaqin-ma-mun-a49813215).
+If you're interested in me, you can follow myLinkedin (https://www.linkedin.com/in/muhammad-ainul-yaqin-ma-mun-a49813215/).
 <!--
 **Ainmaxx/Ainmaxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
